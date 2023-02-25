@@ -1,10 +1,10 @@
 ## Hi there, I'm Fernanda (she/her) 👋
 
 
-I am curently a sophomore in college from Long Beach, California interested in software devleopment and cybersecurity!
+I am curently a Junior in college from Long Beach, California interested in information technology and cybersecurity!
 
-My passion from STEM originates from time in the engineering pathway at my high school where I took various engineering classes, 
-including Principles of Engineering, Introduction to Aerospace Engineering from the Project Lead The Way curriculum.
+My passion from STEM originates from my time in the engineering pathway at my high school where I took various engineering classes, 
+including Principles of Engineering to Introduction to Aerospace Engineering from the Project Lead The Way curriculum.
 
 I took Introduction to Computer Science: C++ and Introduction to Java. 
 
