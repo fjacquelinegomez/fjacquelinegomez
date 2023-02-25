@@ -21,4 +21,4 @@ I participate in a youth organization from the Youth Leadership Institute where 
 multimedia projects to support the cause. As a member, we manage a social media account on Instagram where we post educational information about the effects of smoking.
 
 You can contact me:
-LinkedIn: https://www.linkedin.com/in/fernanda-jacqueline-gomez-a0012gp 
+LinkedIn: https://www.linkedin.com/in/fernanda-j-gomez/
